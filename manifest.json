@@ -1,0 +1,9 @@
+{
+  "id": "task-organizer",
+  "name": "Task Organizer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Automatically organizes tasks by moving completed tasks to the bottom of lists",
+  "author": "Moayid Al Subhi",
+  "isDesktopOnly": false
+}

@@ -1,0 +1,24 @@
+# Obsidian
+.obsidian/
+
+# Dependencies
+node_modules/
+
+# Build files
+main.js
+*.js.map
+data.json
+
+# Environment
+.env
+.DS_Store
+
+# Development
+.vscode/
+.idea/
+*.log
+.hot-reload.json
+
+# Operating System
+Thumbs.db
+desktop.ini
